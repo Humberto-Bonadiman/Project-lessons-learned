@@ -25,6 +25,7 @@ p {
 }
 
 table {
+  clear: both;
   margin: 3px;
   padding: 5px;
   border: 1px solid black;
