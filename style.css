@@ -15,10 +15,12 @@ p {
 }
 
 .lado-esquerdo {
+  width: 350px;
   float: left;
 }
 
 .lado-direito {
+  width: 350px;
   float: right;
 }
 
