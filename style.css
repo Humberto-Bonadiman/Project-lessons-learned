@@ -11,6 +11,13 @@ article {
   float: left;
 }
 
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  color: rgb(63, 62, 62);
+  line-height: 150%;
+}
+
 section {
   float: right;
 }
