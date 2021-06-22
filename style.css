@@ -7,7 +7,7 @@ body {
   top: 0;
 }
 
-article {
+.lado-esquerdo {
   float: left;
 }
 
@@ -18,7 +18,7 @@ p {
   line-height: 150%;
 }
 
-section {
+.lado-direito {
   float: right;
 }
 
