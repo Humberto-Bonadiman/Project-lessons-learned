@@ -6,3 +6,9 @@ body {
   position: fixed;
   top: 0;
 }
+article{
+  float: left;
+}
+section{
+  float: right;
+}
